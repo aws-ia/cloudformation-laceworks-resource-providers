@@ -1,7 +1,8 @@
 {
     "typeName": "Lacework::Alerts::Channel",
     "description": "A resource for defining Lacework notification channels",
-    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
+    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers.git",
+    "documentationUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
     "typeConfiguration": {
         "properties": {
             "LaceworkAccess": {

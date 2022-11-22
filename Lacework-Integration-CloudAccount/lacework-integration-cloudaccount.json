@@ -1,7 +1,8 @@
 {
     "typeName": "Lacework::Integration::CloudAccount",
     "description": "Resource to integrate a Cloud Account with Lacework",
-    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
+    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers.git",
+    "documentationUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
     "typeConfiguration": {
         "properties": {
             "LaceworkAccess": {

@@ -1,6 +1,6 @@
 # Lacework::Integration::ContainerRegistry
 
-An example resource schema demonstrating some basic constructs and validation rules.
+Add a container registry e.g. AWS's ECR
 
 ## Syntax
 
@@ -41,7 +41,7 @@ _Required_: Yes
 
 _Type_: String
 
-_Minimum_: <code>1</code>
+_Minimum Length_: <code>1</code>
 
 _Update requires_: [No interruption](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-update-behaviors.html#update-no-interrupt)
 

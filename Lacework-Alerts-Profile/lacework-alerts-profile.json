@@ -1,7 +1,8 @@
 {
     "typeName": "Lacework::Alerts::Profile",
     "description": "A resource for associating a Lacework alert with a profile",
-    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
+    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers.git",
+    "documentationUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
     "typeConfiguration": {
         "properties": {
             "LaceworkAccess": {

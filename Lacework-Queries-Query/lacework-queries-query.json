@@ -1,7 +1,8 @@
 {
     "typeName": "Lacework::Queries::Query",
     "description": "A resource for managing Lacework queries",
-    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
+    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers.git",
+    "documentationUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
     "typeConfiguration": {
         "properties": {
             "LaceworkAccess": {

@@ -1,7 +1,8 @@
 {
     "typeName": "Lacework::Agents::Token",
     "description": "Lacework Agent Token schema.  Once created a Lacework Agent token cannot be deleted so if you remove this resource Cloudformation will disable the token.",
-    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
+    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers.git",
+    "documentationUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
     "typeConfiguration": {
         "properties": {
             "LaceworkAccess": {

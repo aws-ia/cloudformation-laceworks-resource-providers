@@ -1,7 +1,8 @@
 {
     "typeName": "Lacework::Integration::ContainerRegistry",
-    "description": "An example resource schema demonstrating some basic constructs and validation rules.",
-    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
+    "description": "Add a container registry e.g. AWS's ECR",
+    "sourceUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers.git",
+    "documentationUrl": "https://github.com/aws-ia/cloudformation-laceworks-resource-providers",
 
     "typeConfiguration": {
         "properties": {
